@@ -136,7 +136,7 @@ const KidsProduct = () => {
               Add to Cart
             </button>
             <span> </span>
-            <a href="/checkout">
+            <a href="/validation">
               <button
                 style={{
                   border: "none",
